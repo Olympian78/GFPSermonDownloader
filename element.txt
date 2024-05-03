@@ -1,0 +1,151 @@
+<div class="grid-content">
+    <h3>Series</h3>
+    <div class="meta-data">POPULAR SERIES</div>
+    <ul>
+        <!-- ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=1 Corinthians" class="ng-binding" href="/resource-query?series=1 Corinthians">1 Corinthians</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=1 Peter" class="ng-binding" href="/resource-query?series=1 Peter">1 Peter</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=1 Samuel" class="ng-binding" href="/resource-query?series=1 Samuel">1 Samuel</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=1 Thessalonians" class="ng-binding" href="/resource-query?series=1 Thessalonians">1 Thessalonians</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=1 Timothy" class="ng-binding" href="/resource-query?series=1 Timothy">1 Timothy</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=2 Peter" class="ng-binding" href="/resource-query?series=2 Peter">2 Peter</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=2 Thessalonians" class="ng-binding" href="/resource-query?series=2 Thessalonians">2 Thessalonians</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=2 Timothy" class="ng-binding" href="/resource-query?series=2 Timothy">2 Timothy</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Acts" class="ng-binding" href="/resource-query?series=Acts">Acts</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Adhoc" class="ng-binding" href="/resource-query?series=Adhoc">Adhoc</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Biblical Counceling Introduction" class="ng-binding" href="/resource-query?series=Biblical Counceling Introduction">Biblical Counceling Introduction</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Church Discipline" class="ng-binding" href="/resource-query?series=Church Discipline">Church Discipline</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Colossians" class="ng-binding" href="/resource-query?series=Colossians">Colossians</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Daniel" class="ng-binding" href="/resource-query?series=Daniel">Daniel</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Ecclesiastes" class="ng-binding" href="/resource-query?series=Ecclesiastes">Ecclesiastes</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Ephesians" class="ng-binding" href="/resource-query?series=Ephesians">Ephesians</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Evangelism 101" class="ng-binding" href="/resource-query?series=Evangelism 101">Evangelism 101</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Faces in the Crowd" class="ng-binding" href="/resource-query?series=Faces in the Crowd">Faces in the Crowd</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Family Counsel" class="ng-binding" href="/resource-query?series=Family Counsel">Family Counsel</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Growing Old Gracefully" class="ng-binding" href="/resource-query?series=Growing Old Gracefully">Growing Old Gracefully</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Hebrews" class="ng-binding" href="/resource-query?series=Hebrews">Hebrews</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=James" class="ng-binding" href="/resource-query?series=James">James</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Jeremiah" class="ng-binding" href="/resource-query?series=Jeremiah">Jeremiah</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Job" class="ng-binding" href="/resource-query?series=Job">Job</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=John" class="ng-binding" href="/resource-query?series=John">John</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Jonah" class="ng-binding" href="/resource-query?series=Jonah">Jonah</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Jude" class="ng-binding" href="/resource-query?series=Jude">Jude</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Ladies conference SA 2016" class="ng-binding" href="/resource-query?series=Ladies conference SA 2016">Ladies conference SA 2016</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Ladies Conference SA 2019" class="ng-binding" href="/resource-query?series=Ladies Conference SA 2019">Ladies Conference SA 2019</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Leadership Conference" class="ng-binding" href="/resource-query?series=Leadership Conference">Leadership Conference</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Luke" class="ng-binding" href="/resource-query?series=Luke">Luke</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Malachi" class="ng-binding" href="/resource-query?series=Malachi">Malachi</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Mark" class="ng-binding" href="/resource-query?series=Mark">Mark</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Marriage and Family" class="ng-binding" href="/resource-query?series=Marriage and Family">Marriage and Family</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Matthew" class="ng-binding" href="/resource-query?series=Matthew">Matthew</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Nehemiah" class="ng-binding" href="/resource-query?series=Nehemiah">Nehemiah</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Pentateuch" class="ng-binding" href="/resource-query?series=Pentateuch">Pentateuch</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Philemon" class="ng-binding" href="/resource-query?series=Philemon">Philemon</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Philippians" class="ng-binding" href="/resource-query?series=Philippians">Philippians</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Proclaiming the Gospel" class="ng-binding" href="/resource-query?series=Proclaiming the Gospel">Proclaiming the Gospel</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Proverbs" class="ng-binding" href="/resource-query?series=Proverbs">Proverbs</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Psalms" class="ng-binding" href="/resource-query?series=Psalms">Psalms</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Romans" class="ng-binding" href="/resource-query?series=Romans">Romans</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Ruth" class="ng-binding" href="/resource-query?series=Ruth">Ruth</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Sexual Purity" class="ng-binding" href="/resource-query?series=Sexual Purity">Sexual Purity</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2003" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2003">Shepherds' Conference SA 2003</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2004" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2004">Shepherds' Conference SA 2004</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2005" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2005">Shepherds' Conference SA 2005</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2006" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2006">Shepherds' Conference SA 2006</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2007" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2007">Shepherds' Conference SA 2007</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2008" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2008">Shepherds' Conference SA 2008</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2009" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2009">Shepherds' Conference SA 2009</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2010" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2010">Shepherds' Conference SA 2010</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2011" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2011">Shepherds' Conference SA 2011</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2012" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2012">Shepherds' Conference SA 2012</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2014" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2014">Shepherds' Conference SA 2014</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2015" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2015">Shepherds' Conference SA 2015</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2016" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2016">Shepherds' Conference SA 2016</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2017" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2017">Shepherds' Conference SA 2017</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2018" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2018">Shepherds' Conference SA 2018</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2019" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2019">Shepherds' Conference SA 2019</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2021" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2021">Shepherds' Conference SA 2021</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Shepherds' Conference SA 2022" class="ng-binding" href="/resource-query?series=Shepherds' Conference SA 2022">Shepherds' Conference SA 2022</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=The fear of the LORD" class="ng-binding" href="/resource-query?series=The fear of the LORD">The fear of the LORD</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=The Holy Spirit" class="ng-binding" href="/resource-query?series=The Holy Spirit">The Holy Spirit</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=The Sermon on the mount" class="ng-binding" href="/resource-query?series=The Sermon on the mount">The Sermon on the mount</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Topical Sermons" class="ng-binding" href="/resource-query?series=Topical Sermons">Topical Sermons</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=Various" class="ng-binding" href="/resource-query?series=Various">Various</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=What is God like" class="ng-binding" href="/resource-query?series=What is God like">What is God like</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 --><li ng-repeat="series in vm.series | limitTo:vm.seriesLimit || 5" class="ng-scope">
+            <a ng-href="/resource-query?series=What we believe" class="ng-binding" href="/resource-query?series=What we believe">What we believe</a>
+        </li><!-- end ngRepeat: series in vm.series | limitTo:vm.seriesLimit || 5 -->
+        <li ng-show="!vm.seriesLimit" ng-click="vm.seriesLimit = 1000" class="clickable ng-hide"><em>Show
+                more</em></li>
+        <li ng-show="vm.seriesLimit" ng-click="vm.seriesLimit = false" class="clickable"><em>Show
+                less</em></li>
+    </ul>
+</div>
